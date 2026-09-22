@@ -1,0 +1,16 @@
+# Terraform
+**/terraform/
+**/.terraform/
+**/*.tf
+**/*.tfvars
+**/*.tfstate
+**/*.tfstate.*
+**/.terraform.lock.hcl
+**/user_data.*
+
+# Credenciais, chaves e logs
+**/*.pem
+**/*.log
+
+# Material exclusivo do instrutor
+**/README-INSTRUTOR.md
